@@ -1,0 +1,22 @@
+# 비밀 값
+.env
+.env.*
+!.env.example
+
+# 로컬 설치·실행 메모
+Install_Excution_guide.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 로그
+*.log
